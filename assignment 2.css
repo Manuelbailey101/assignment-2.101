@@ -1,0 +1,28 @@
+body{
+font-family:'arial';
+background-color: rgb(7, 7, 14);
+color: rgb(255, 255, 255);
+font-weight: 200;
+}
+.myclass{
+    font-size: 25px;
+    color: rgb(12, 242, 250);
+    text-transform: lowercase;
+    line-height: 2;
+}
+h1{
+    font-size: 70px;
+    text-transform: lowercase;
+    letter-spacing: 7px;
+    text-align: left;
+    text-shadow: 5px 5px rgb(201, 13, 13);
+}
+h2{
+    font-family: Verdana;
+    line-height: 2;
+    text-decoration: wavy;
+    color: rgb(231, 222, 229);
+    background-color: rgb(206, 17, 4);
+}
+
+
